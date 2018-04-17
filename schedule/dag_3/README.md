@@ -8,4 +8,5 @@
 
 Extra:
 
++ [Tekstbestand van GM deel 13](GM_hoofdtekst_deel13.txt)
 + [toelichting bij de Generale Missiven data](gm_toelichting.md)
