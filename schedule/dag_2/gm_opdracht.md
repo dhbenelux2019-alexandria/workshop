@@ -18,7 +18,7 @@ We hebben de beschikking over de registers van de gedrukte delen missiven. Voor 
 <a name="data"></a>
 ### Dataset: Geselecteerde delen Generale missiven. Zie ook de [toelichting](gm_toelichting.md)
 
-De [Generale Missiven indices data](https://surfdrive.surf.nl/files/index.php/s/OjzD8hZlVvDU12c) zijn als gezipt bestand te downloaden. Er is ook een [tekstbestand van Generale Missiven deel 13](../dag_3/GM_hoofdtekst_deel13.txt)
+De [Generale Missiven indices data](https://surfdrive.surf.nl/files/index.php/s/OjzD8hZlVvDU12c) zijn als gezipt bestand te downloaden. Er is ook een [tekstbestand van Generale Missiven deel 13](../dag_3/GM_hoofdtekst_deel13.txt). **Blijkbaar zijn de indexen met label 13 stiekem de indexen van deel 10. Hierbij een [zip met tekstbestanden per pagina van deel 10](GM_deel_10_tekst.zip).**
 
 
 <a href="opdracht"></a>
