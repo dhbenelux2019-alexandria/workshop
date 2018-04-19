@@ -3,11 +3,12 @@
 + [Introductie](#intro)
     + [Data](#data)
 + [Indextermen linken via tekst](#linking-text)
++ [uitwerking visualiseren geografische termen](GM_visualiseren_plaatsen.md)
 
 <a name="intro"></a>
 ## Introductie
 
-Met deze opdracht krijg je inzicht in de mogelijkheden om trefwoorden uit verschillende categorieen aan elkaar te linken. 
+Met deze opdracht krijg je inzicht in de mogelijkheden om trefwoorden uit verschillende categorieen aan elkaar te linken.
 
 **Vraag:** _Op welke manier kunnen de indices van de Generale Missiven van de VOC gekoppeld en verrijkt worden._
 
@@ -32,7 +33,7 @@ _Bepaal aan de hand van de beschikbare registers of een samenhangende toegang to
 <a name="linking-text"></a>
 ### Indextermen linken via tekst
 
-Veel van de namen en zaaktrefwoorden komen maar een of een paar keer voor. Het is erg lastig om over deze trefwoorden iets te kunnen zeggen zonder close reading van de tekst. Als je deze trefwoorden kunt groeperen, e.g. alle personen die *koopman* zijn kunt classificeren als *koopmannen*, kun je beter inzicht krijgen in wie al die personen waren, met wat voor zaken zij te maken hadden, en welke geografische locaties daarbij horen. 
+Veel van de namen en zaaktrefwoorden komen maar een of een paar keer voor. Het is erg lastig om over deze trefwoorden iets te kunnen zeggen zonder close reading van de tekst. Als je deze trefwoorden kunt groeperen, e.g. alle personen die *koopman* zijn kunt classificeren als *koopmannen*, kun je beter inzicht krijgen in wie al die personen waren, met wat voor zaken zij te maken hadden, en welke geografische locaties daarbij horen.
 
 ![Image doesn't load](http://resources.huygens.knaw.nl/retroapp/service_generalemissiven/gm_10/images/generale_missiven_gs250_1114.jpg)
 
@@ -126,7 +127,7 @@ Nuttiger is om via de tekst te achterhalen waarom Pieter Visscher genoemd is:
 
 ![Image doesn't load](http://resources.huygens.knaw.nl/retroapp/service_generalemissiven/gm_10/images/generale_missiven_gs250_0632.jpg)
 
-Je ziet dat het voorkomen van de naam `Pieter Visscher` vooraf wordt gegaan door zijn beroep. 
+Je ziet dat het voorkomen van de naam `Pieter Visscher` vooraf wordt gegaan door zijn beroep.
 
 Je kunt bijvoorbeeld de namen opzoeken in de tekst met UNIX command line tools en uit de context halen welke beroepen of rollen daarbij genoemd worden, of met een lijst van zakentrefwoorden die rollen van personen beschrijven, greppen naar voorkomens van die rollen met namen erachter.
 
@@ -294,5 +295,3 @@ Ziekentrooster
 ```
 
 Het bestand met [matches van personen en rollen](../dag_3/GM_deel_10_rollen_matches.txt).
-
-
