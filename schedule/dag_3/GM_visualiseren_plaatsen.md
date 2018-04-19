@@ -7,7 +7,7 @@ Open Refine claimt dat het direct via google plaatsnamen kan queryen, maar dat i
 Voor het queryen gebruiken we het python _geocoder_ package (installeer met ```pip install geocoder ```), voor csv handling het _csv_ package uit de python standard library.
 
 
-``` python
+```python
 key = open('googlekey.txt'').read(),
 # read in csv file with the csv module,
 infl = open('<your location>/datasets_dag2/genormaliseerde_bestanden/13_geo.csv') # for this example,
@@ -26,7 +26,7 @@ for p in places:
 
 Mijn sessie is nooit geëindigd. Bovendien y session did never finish, but the number of results was enough to demo. Google maps could not resolve many of the places.
 
-``` python
+```python
 #  join the original file with relevant information from the geocoding:\n",
 # country,county,lat and lng
 # as the geocoder knows many more places in the US than outside of it and this source does not deal with the US, we kick out all results with a US country
