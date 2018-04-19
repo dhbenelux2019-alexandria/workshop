@@ -8,6 +8,7 @@ Voor het queryen gebruiken we het python _geocoder_ package (installeer met ```p
 
 
 ```python
+import geocoder
 key = open('googlekey.txt').read()
 # read in csv file with the csv module
 infl = open('<your location>/datasets_dag2/genormaliseerde_bestanden/13_geo.csv') # for this example
