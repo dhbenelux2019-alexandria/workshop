@@ -4,6 +4,7 @@
     + [Data](#data)
 + [Opdracht](#opdracht)
 + [Resultaten](#resultaten)
++ [Indextermen linken via tekst](#linking-text)
 
 <a name="intro"></a>
 ## Introductie
@@ -218,4 +219,111 @@ GM_deel_10/generale_missiven_gs250_0988.txt:schipper Jan van der Stratenvan
 
 Je ziet aan de bestandsnamen welke pagina's een match opleveren. Op pagina 632 komen vier verschillende personen voor in combinatie met `schipper`, waaronder Pieter Visscher. In dit geval is het volgende woord in de text, `is` vastgeplakt aan de naam (een veelvoorkomend OCR probleem), maar dit is met zgn. *near-matching* op te lossen: we weten dat de naam Pieter Visscher op pagina 632 moet staan, en we hebben een aantal resultaten met namen die we niet in de index vinden (waaronder ook `JanMeulman`) Het aantal kandidaten op pagina 632 die mogelijk naar Pieter Visscher verwijzen is beperkt.
 
+Sla eerst alle resultaten op in een bestand:
+
+```bash
+grep -E -o -w "[Ss]chipper( [A-Z](\w|-)+)*( ([vV]an|[dD]e[nr]?)+)*( [A-Z](\w|-)+)+" GM_deel_10/*.txt > GM_rollen_deel_10.txt
+```
+
+Vervolgens kun je [agrep](https://github.com/Wikinaut/agrep) gebruiken voor namen in de index die je niet op de corresponderende pagina's vindt:
+
+```bash
+agrep -2 "Pieter Visscher" GM_rollen_deel_10.txt | grep gs250_0632
+agrep -2 "Jan Meulman" GM_rollen_deel_10.txt | grep gs250_0632
+```
+
+De `-2` optie zoekt namen die ten meeste twee *edits* verwijderd zijn van het opgegeven patroon. De `grep` daarna selecteert alle resultaten uit `agrep` die op pagina 632 voorkomen.
+
+De volgende lijst van 88 namen voor rollen of beroepen leveren 999 matches op in GM deel 10:
+
+```
+Administrateur
+Advocaat
+Beschrijver
+Boeddhistische priester
+Boekhouder
+Burger
+Chirurgijn
+Commandeur
+Commissiant
+Curator
+Directeur
+Directeur-generaal
+Dispensier
+Equipagemeester
+Erfgenaam
+Executeur
+Gevangene
+Gezant
+Gezaghebber
+Gezagvoerder
+Gouverneur
+Gouverneur-generaal
+Heiden
+Hoofdadministrateur
+Ingenieur
+Inlandse bestuurder
+Inlandse vorst
+Ingenieur
+Kaartenmaker
+Kanonnier
+Kapitein
+Kassier
+Kettingganger
+Kind
+Klerk
+Klerk van politie
+Klerk van de secretarie
+Konstabel
+Koopman
+Kwartiermeester
+Landdrost
+Leproos
+Licentmeester
+Makelaar
+Matroos
+Militair
+Moslim
+Muntmeester
+Negotieboekhouder
+Notaris
+Onderkoopman
+Ontvanger
+Ontvanger-generaal
+Opperhoofd
+Pachter
+Pakhuismeester
+Perkenier
+Predikant
+Priester
+Regent
+Resident
+Rijksbestierder
+Scheepsofficier
+Schipper
+Scholarch
+Schrijver
+Secretaris van politie
+Secretaris van justitie
+Sjeik
+Slaaf
+Soldaat
+Soldijboekhouder
+Stuurman
+Supercarga
+Suppoost
+Tolk
+Visiadoor
+Visitateur
+Visitateur-generaal
+Voogd
+Vrijburger
+Vuurwerker
+Weduwe
+Wever
+Winkelier
+Weesmeester
+Zeeofficier
+Ziekentrooster
+```
 
