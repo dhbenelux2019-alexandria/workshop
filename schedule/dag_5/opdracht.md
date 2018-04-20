@@ -59,7 +59,7 @@ Bij het verzamelen van boekbesprekingen van het web kun je de ISBNs die je vindt
 
 Met de optie `fl` kun je bepalen welke informatie je per ISBN wilt zien. In bovenstaand geval is dat *vorm*, *publicatiejaar*, *taal* en *editie*. Met `fl=*` krijg je alle beschikbare gegevens te zien:
 
-[http://xisbn.worldcat.org/webservices/xid/isbn/9789044601534?method=getEditions&format=xml&fl=*](http://xisbn.worldcat.org/webservices/xid/isbn/9789044601534?method=getEditions&format=xml&fl=*)
+[http://xisbn.worldcat.org/webservices/xid/isbn/9789044601534?method=getEditions&format=xml&fl=\*](http://xisbn.worldcat.org/webservices/xid/isbn/9789044601534?method=getEditions&format=xml&fl=\*)
 
 
 <a name="book-review-modelling"></a>
