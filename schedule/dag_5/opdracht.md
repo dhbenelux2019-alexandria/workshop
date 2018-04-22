@@ -84,9 +84,10 @@ De opdracht is:
     + welke gegevens kun je **linken** aan andere data/recensies?
     + welke gegevens kun je gebruiken om recensies of aspecten daarvan te **classificeren**?
 
-+ Download de [Leestafel data](https://surfdrive.surf.nl/files/index.php/s/L1AVitvi8eanPsP)
-    + Bekijk een aantal bestanden in de leestafel.info map. Het zijn HTML bestanden ook al hebben ze geen `.html` extensie. Bedenk hoe je hier informatie uit kunt halen?
++ Download een aantal bestanden van de leestafel.info website voor analyse:
+    + Het zijn HTML bestanden ook al hebben ze geen `.html` extensie. Bedenk hoe je hier informatie uit kunt halen.
     + Zoek naar vaste patronen in de recensies. Kun je achterhalen hoeveel recensies er zijn? Hoeveel verschillende titels en auteurs besproken worden? Welke ISBNs komen voor?
++ Gebruik het [Leestafel Jupyter notebook](Parse-review-blog-posts.ipynb) om de HTML bestanden te parseren en analyseren.
 
 Overigens wordt de Leestafel website ook gearchiveerd door de [Koninklijke Bibliotheek](https://www.kb.nl/bronnen-zoekwijzers/databanken-mede-gemaakt-door-de-kb/webarchief-kb).
 
