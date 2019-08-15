@@ -4,8 +4,8 @@
 
 ### Instructors:
 Elli Bleeker, Bram Buitendijk, Ronald Haentjens Dekker, Astrid Kulsdom  
-[*Research and Development group*](https://huc.knaw.nl/research-development/)  
-Humanities Cluster, Royal Academy for the Arts and Sciences
+[*Research and Development group*](https://huc.knaw.nl/research-development/) Humanities Cluster   
+Royal Academy for the Arts and Sciences
 
 ### Introduction
 Participants of this full-day workshop learn to work with TAG, an alternative (graph-based) data model for text, which allows them to explore a more flexible way of digital editing than is available with the single hierarchy afforded by XML. The TAG data model, a hypergraph structure that can successfully address the various challenges posed by the modeling of complex texts, has been described as “both simple and brilliant” (Sperberg-McQueen 2017). The goal of the workshop is not (only) to learn to work with a new text editing tool, but primarily to acquire a way of thinking about text modeling that is not constrained a priori by external models or by software assumptions built into software tools. During the workshop, participants will be introduced to the principles of a distributed architecture for digital scholarly editions as they learn to work with the TAG reference implementation Alexandria. This implementation allows editors to import, edit, and export complex texts in a straightforward manner. Alexandria accommodates the encoding of multiple, coexisting views on text and thus supports various approaches to scholarly editing.
