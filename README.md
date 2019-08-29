@@ -22,7 +22,7 @@ In the afternoon session we dive more deeply into practice in the context of the
 To sum up: the TAG workshop will cover the entire editing process, from transcription to publication, paying attention to each step along the way. This “pipeline” approach provides participants with a deeper awareness of the many conceptual and practical transformations that textual data undergoes. It enables both the production of an actual edition and a final high-level, abstract reflection on the importance of choosing an appropriate data model to express, process and analyze textual information. Over the course of the workshop, participants work with Alexandria and thus experience first-hand TAG’s hypergraph model for text, the properties of which have significant benefits for the editorial process and for the way we conceptualize our texts. They will learn that expressing information about text, creating a digital edition, and shaping editorial practices doesn't have to be bound to a specific tool or technology. 
 
 ### Application
-You can apply to the workshop by filling out the online form provided [here](http://2019.dhbenelux.org/workshops-details/) (link on the top of the webpage; make sure to register for “Workshop 2”). If you have any questions, don’t hesitate to get in touch: [astrid.kulsdom@di.huc.knaw.nl](mailto:astrid.kulsdom@di.huc.knaw.nl).
+You can apply to the workshop by filling out the online form provided [here](http://2019.dhbenelux.org/workshops-details/) (link on the top of the webpage; make sure to register for “Workshop 2”). If you have any questions, don’t hesitate to get in touch: [elli.bleeker@di.huc.knaw.nl](mailto:elli.bleeker@di.huc.knaw.nl).
 
 ### Technical requirements
 
