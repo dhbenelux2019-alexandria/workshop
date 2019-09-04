@@ -1,3 +1,7 @@
+---
+permalink: /
+---
+
 # Call for participation DHBenelux 2019 workshop: TAG and Alexandria
 
 ## Advancing digital editing: how to work with graph models, multiple perspectives, and flexible workflows
