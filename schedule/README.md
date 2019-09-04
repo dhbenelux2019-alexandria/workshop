@@ -1,3 +1,7 @@
+---
+permalink: /schedule/
+---
+
 # Program
 
 [schedule here]
