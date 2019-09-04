@@ -1,5 +1,5 @@
 ---
-permalink: /installation/
+permalink: /preparation/
 ---
 
 ## some information about installations
