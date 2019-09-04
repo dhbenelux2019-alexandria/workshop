@@ -1,6 +1,4 @@
-# Call for participation DHBenelux 2019 workshop: TAG and Alexandria
-
-## Advancing digital editing: how to work with graph models, multiple perspectives, and flexible workflows
+# Advancing digital editing: how to work with graph models, multiple perspectives, and flexible workflows
 
 ### Instructors:
 Elli Bleeker, Bram Buitendijk, Ronald Haentjens Dekker, Astrid Kulsdom  
@@ -12,7 +10,6 @@ Participants of this full-day workshop learn to work with [TAG](https://huygensi
 
 ### Target audience
 The target audience of this workshop is textual scholars, scholarly editors, digital humanists and scholars interested in text modeling. Experience with TEI (or other XML), text transcription, and textual editing is a plus. Experience with working on the command line, HTML and XSLT is also an advantage, but not required. The tutorial has room for a maximum of 20 participants.
-
 
 ### Workshop program
 The workshop would run for a single day, divided into morning and afternoon sessions of approximately 180 minutes each. The morning session concentrates on the theoretical background of data models for text, including a discussion of several textual phenomena and other features that are difficult to express in the tree structure of XML. We then introduce the graph model of TAG and the related markup language TAGML. The session concludes with hands-on work: participants will make a brief transcription of a text fragment in TAGML, with special attention to those textual features that pose challenges to XML as a model. For pedagogical reasons we provide a data set during the workshop, but participants will perform their own document analysis and will markup the text from their own perspective(s).
