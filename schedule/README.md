@@ -16,8 +16,8 @@ Time | Topic | Type
 14:30 - 15:00 | Workflow of _Alexandria_; distributed architecture diffing and merging views | Talk
 15:00 - 15:45 | Working with _Alexandria_ | Hands-on
 15:45 - 16:00 | Tea | Break
-16:00 - 16:40 | Publication workflow; from TAGML to HTML | Hands-on
-16:30 - 16:45 | Reflection; discussion | Plenary
+16:00 - 16:45 | Publication workflow; from TAGML to HTML | Hands-on
+16:45 - 17:15 | Reflection; discussion | Plenary
 
 
 
