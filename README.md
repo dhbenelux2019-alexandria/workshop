@@ -21,22 +21,6 @@ To sum up: the TAG workshop will cover the entire editing process, from transcri
 ### Application
 You can apply to the workshop by filling out the online form provided [here](http://2019.dhbenelux.org/workshops-details/) (link on the top of the webpage; make sure to register for “Workshop 2”). If you have any questions, don’t hesitate to get in touch: [elli.bleeker@di.huc.knaw.nl](mailto:elli.bleeker@di.huc.knaw.nl).
 
-### Technical requirements
-
-**Corpus**: During the workshop, we will work with a small corpus of texts and an XSLT template to generate HTML. The corpus is prepared in advance by the instructors in order to streamline the tutorial exercises. 
-
-**Hardware**: Participants must bring laptops with Windows/Mac OS X/Linux (No iOS / ChromeOS / Surface devices)
-
-**Software**:  
-Participants must install
-
-- Java (>=1.8, [get it here](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html));
-- [Oxygen XML editor](https://www.oxygenxml.com/xml_editor/download_oxygenxml_editor.html) (you can request a trial license key [here](https://www.oxygenxml.com/xml_editor/register.html));
-- [Sublime Text 3](https://www.sublimetext.com/3);
-- [TAGML highlighting](https://github.com/HuygensING/tagml-sublime-syntax) in Sublime;  
-- [GraphViz](https://www.graphviz.org/download/);
-- [Alexandria](https://github.com/HuygensING/alexandria).
-
 ### Further reading
 - Alexandria version 2.2. [computer software]. 2019. Retrieved from: <https://huygensing.github.io/alexandria/>.
 - TAG (Text as Graph) [data model]. 2019. Retrieved from: <https://huygensing.github.io/TAG>.
