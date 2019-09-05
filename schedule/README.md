@@ -11,7 +11,8 @@ Time | Topic | Type
 10:30 - 11:00 | Introduction TAGML | Talk
 11:00 - 11:45 | Transcribing in TAGML | Hands-on
 11:45 - 12:00 | Coffee | Break
-12:00 - 12:45 | Taking stock, reflection | Plenary
+12:00 - 12:30 | Layers in TAGML; functionalities and use | Talk
+12:30 - 12:45 | Taking stock, reflection | Plenary
 12:45 - 14:30 | Lunch | Break
 14:30 - 15:00 | Workflow of _Alexandria_; distributed architecture diffing and merging views | Talk
 15:00 - 15:45 | Working with _Alexandria_ | Hands-on
