@@ -1,4 +1,4 @@
-#!python
+#!/usr/bin/env python
 # script to transform XML file to a HTML file using an XSLT file
 # created by Ronald
 
