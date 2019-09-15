@@ -7,9 +7,9 @@ This page contains the materials used during the workshop (slides and notebooks)
 ## Materials
 
 ### Notebooks
-Notebook [hands-on session 2](https://dhbenelux2019-alexandria.github.io/workshop/notebooks/handson2.html), working with _Alexandria_ and TAGML.
+Notebook [hands-on session 2](https://dhbenelux2019-alexandria.github.io/workshop/links/handson2.html), working with _Alexandria_ and TAGML.
 
-Notebook [hands-on session 3](https://dhbenelux2019-alexandria.github.io/workshop/notebooks/handson3.html), transforming and converting TAGML.
+Notebook [hands-on session 3](https://dhbenelux2019-alexandria.github.io/workshop/links/handson3.html), transforming and converting TAGML.
 
 ### Slides
 
